@@ -1,3 +1,8 @@
+Cranke Shaft GP : 8N-0337 %131-UP
+cranke shaft AS: 448-8940 
+
+
+
 # Welded Crankshaft
 چیزی که در صنعت واقعاً انجام شده، عمدتاً تحت عنوان **Welded Crankshaft** شناخته می‌شود و حتی از دهه ۱۹۸۰ برای میل‌لنگ‌های بسیار بزرگ دریایی استفاده شده است. در یک گزارش فنی، نخستین crankshaft assembly-welded ژاپن در ۱۹۸۵ توسط Kobe Steel با همکاری MAN-B&W ساخته شده و از **narrow-gap submerged arc welding** استفاده شده است.
 [WELDED CRANKSHAFT OFFERS CHANCE TO OVERCOME COSTLY WEIGHT PROBLEM](https://trid.trb.org/View/427573?utm_source=chatgpt.com)
